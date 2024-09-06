@@ -1,1 +1,1 @@
-# gprojcommon
+# Общий репозиторий GProject
