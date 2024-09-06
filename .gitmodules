@@ -1,0 +1,3 @@
+[submodule "gprojcpp"]
+	path = gprojcpp
+	url = git@github.com:AlexanderShataev/gprojcpp.git
